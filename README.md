@@ -1,9 +1,22 @@
-👋 Hola, soy Federico Volpintesta
+<h1 align="center">👋 Hola, soy Federico Volpintesta</h1>
 
-💻 Desarrollador Front-End en formación  
-📍 Santa Fe, Argentina  
-🏨 Background en administración hotelera y atención al cliente  
+<h3 align="center">💻 Desarrollador Front-End en formación</h3> 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+
+<p align="center">
+💻 Desarrollo web | 🎨 Maquetado | 🏨 Background en hotelería  
+<br/>
+📍 Santa Fe, Argentina
+</p> 
+
+
+🧑‍💻 Sobre mí
 Actualmente me estoy formando en desarrollo web, enfocándome en crear
 interfaces claras, funcionales y prolijas, aplicando buenas prácticas
 de HTML, CSS y JavaScript.
@@ -11,24 +24,26 @@ de HTML, CSS y JavaScript.
 ---
 
 🛠️ Tecnologías que utilizo
-- HTML5
-- CSS3 (Flexbox, Grid)
-- JavaScript
-- Git & GitHub
-- GitHub Pages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 ---
 
 📌 Proyectos destacados
-- 🎨 **Modern Art Gallery** – Maquetado responsive con HTML y CSS
-- 🏨 **Hotel Andina** - Maquetado responsive con HTML y CSS
-- 📄 **Landing Pages** – Estructuras web limpias y adaptables  
 
-👉 Podés verlos anclados más abajo ⬇️
+### 🏨 Hotel Andina
+Sitio web institucional para hotel, enfocado en diseño limpio y responsive.  
+🔗 https://federicovolpintesta-eng.github.io/hotel-andina/
+
+<p align="center"><p>
+  <img src="https://raw.githubusercontent.com/federicovolpintesta-eng/hotel-andina/main/assets/preview.png" width="600"/>
+</p>
 
 ---
 
 📫 Contacto
+
 - 📧 Email: federicovolpintesta@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/federico-volpintesta-675378248/
 
