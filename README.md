@@ -20,10 +20,12 @@
 </p> 
 
 
-🧑‍💻 Sobre mí
-Actualmente me estoy formando en desarrollo web, enfocándome en crear
+<p>🧑‍💻 Sobre mí</p>
+<p>
+  Actualmente me estoy formando en desarrollo web, enfocándome en crear
 interfaces claras, funcionales y prolijas, aplicando buenas prácticas
 de HTML, CSS y JavaScript.
+</p>
 
 ---
 
