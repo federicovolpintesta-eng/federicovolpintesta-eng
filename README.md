@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/portada-git.png" width="700">
+</p>
+
 <h1 align="center">👋 Hola, soy Federico Volpintesta</h1>
 
 <h3 align="center">💻 Desarrollador Front-End en formación</h3> 
