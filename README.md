@@ -37,7 +37,7 @@ Sitio web institucional para hotel, enfocado en diseño limpio y responsive.
 🔗[https://federicovolpintesta-eng.github.io/proyecto-hotel-andina-html/]
 
 <p align="center"><p>
-  <img src="https://raw.githubusercontent.com/federicovolpintesta-eng/hotel-andina/assets/preview.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/federicovolpintesta-eng/proyecto-hotel-andina-html/main/assets/preview.png" width="500"/>
 </p>
 
 ---
