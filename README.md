@@ -1,1 +1,1 @@
-Perfil de Federico Volpintesta - Estudiante de la academia Conquer Blocks
+Desarrollador Front-End - Estudiante de la academia Conquer Blocks
