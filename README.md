@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portada-git.png" width="700">
+  <img src="portada.git.png" width="700">
 </p>
 
 <h1 align="center">👋 Hola, soy Federico Volpintesta</h1>
