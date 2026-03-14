@@ -48,6 +48,24 @@ Sitio web institucional para hotel, enfocado en diseño limpio y responsive.
 
 ---
 
+# 🏨 Lost & Found - Gestión de Hallazgos (Los Pinos Resort)
+
+<p align="center">
+  <img src="Lost-Found-Los-Pinos-Tremun.png" width="100%" alt="Dashboard Lost and Found">
+</p>
+
+Sistema integral desarrollado para digitalizar y optimizar el proceso de objetos perdidos y hallados en hotelería. Reemplaza planillas manuales por un ecosistema digital con persistencia de datos y automatización de documentos legales.
+
+* **📺 Demo en Video:** [Ver funcionamiento del sistema](https://github.com/federicovolpintesta-eng/lostfound-hotel/blob/main/vdemolostfound.mov)
+
+### 🛠️ Key Features:
+* **Dashboard de Control:** KPIs de eficacia de devolución y objetos críticos con Chart.js.
+* **Automatización Legal:** Generación de Actas de Entrega en PDF con jsPDF.
+* **Backend:** Persistencia y Auth mediante Supabase (PostgreSQL).
+* **Filtros Avanzados:** Gestión de inventario y sección especial para Donaciones.
+
+---
+
 📫 Contacto
 
 - 📧 Email: federicovolpintesta@gmail.com  
