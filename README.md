@@ -4,12 +4,18 @@
 
 <h1 align="center">👋 Hola, soy Federico Volpintesta</h1>
 
-<h3 align="center">💻 Desarrollador Front-End en formación</h3> 
+<h3 align="center">💻 Desarrollador Full Stack en formación</h3> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 </p>
 
 
@@ -24,14 +30,14 @@
 <p>
   Actualmente me estoy formando en desarrollo web, enfocándome en crear
 interfaces claras, funcionales y prolijas, aplicando buenas prácticas
-de HTML, CSS y JavaScript.
+de HTML, CSS, JavaScript, TypeScript, React, Streamlit, Python, MySQL y Django
 </p>
 
 ---
 
 🛠️ Tecnologías que utilizo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,django,python,mysql" />
 </p>
 
 ---
@@ -55,6 +61,7 @@ Sitio web institucional para hotel, enfocado en diseño limpio y responsive.
   <img src="https://raw.githubusercontent.com/federicovolpintesta-eng/lostfound-hotel/main/Lost-Found-Los-Pinos-Tremun.png" width="100%" alt="Dashboard Lost and Found">
 </p>
 
+# Caso de uso en Hotel Los Pinos Resort & Spa Termal
 Sistema integral desarrollado para digitalizar y optimizar el proceso de objetos perdidos y hallados en hotelería. Reemplaza planillas manuales por un ecosistema digital con persistencia de datos y automatización de documentos legales.
 
 * **📺 Demo en Video:** [Ver funcionamiento del sistema](https://github.com/federicovolpintesta-eng/lostfound-hotel/blob/main/vdemolostfound.mov)
