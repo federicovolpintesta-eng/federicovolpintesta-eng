@@ -30,7 +30,7 @@
 <p>
   Actualmente me estoy formando en desarrollo web, enfocándome en crear
 interfaces claras, funcionales y prolijas, aplicando buenas prácticas
-de HTML, CSS, JavaScript, TypeScript, React, Streamlit, Python, MySQL y Django
+de HTML, CSS, JavaScript, TypeScript, React, Streamlit, Python, MySQL, Django, Wordpress, SEO
 </p>
 
 ---
